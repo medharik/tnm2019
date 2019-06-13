@@ -1,0 +1,4 @@
+La balise <div> est utilisée 
+pour regrouper des éléments 
+sous forme de bloc et ainsi pouvoir les formater en CSS.
+

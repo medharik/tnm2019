@@ -1,0 +1,7 @@
+HTML est l’abréviation de HyperText Markup Language
+( langage de balisage hypertexte)
+est un langage permettant de définir le contenu web :
+texte,image,vidéo, liens...
+
+CSS est l'abréviation de Cascading StyleSheets (feuilles de styles en cascade).
+permet de définir la présentation graphique des pages web comme les pages html
